@@ -1,0 +1,35 @@
+* {
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+.nav{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:20px;
+background-color:gray;
+}
+
+
+.images{
+	width:200px;
+	height:100px; 
+}
+	
+.nav ul li{
+	display:inline-block;
+	list-style-type:none;
+	margin-left:20px;
+	
+}
+.nav ul li a{
+	text-decoration:none;
+	color:black;
+	font-weight:bold;
+}	
+
+.nav ul li a:hover{
+	color:yellow;
+}
