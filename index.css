@@ -53,7 +53,7 @@ background-color:gray;
 	grid-template-rows:500px 
 }
 
-@media screen and (max-width:800px) {
+@media screen and (max-width:750px) {
 	.burger {
 		display:block;
 		font-size:30px;
