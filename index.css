@@ -27,8 +27,12 @@ background-color:gray;
 
 
 .images{
-	width: 100px;
-	height:100px; 
+	width: 50px;
+	height:50px; 
+}
+.mypic{
+        width: 50px;
+	height:50px; 
 }
 	
 .nav ul li{
